@@ -9,4 +9,6 @@ lutanje1.cpp - Slučajno lutanje za faktorizaciju N
 
 lutanje2.cpp - Slučajno lutanje za diskretni logaritam
 
+lutanje3.cpp - Slučajno lutanje za eliptičke krive
+
 ecfrac.cpp - faktorizacija N preko eliptičke krive
